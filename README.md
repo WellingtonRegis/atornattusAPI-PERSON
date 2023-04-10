@@ -1,4 +1,4 @@
-Documentação
+# Documentação
 
 
 Está é uma API para gerenciar pessoas, com ela será possível criar, editar, consultar e listar uma pessoa em um banco de dados. (Por regra de negócio o projeto usa por padrão o Banco de Dados H2 do Spring, um banco em memória que toda vez que a aplicação rodar o dados que foram inseridos e editados, serão apagados assim que a aplicação parar de rodar).
